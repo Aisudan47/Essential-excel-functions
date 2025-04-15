@@ -91,26 +91,24 @@ Essential-excel-functions/
 ```
 ## 📸 Workbook Preview
 
-🚀 How to Use the Workbook
-Clone this repository
-
-bash
-Copy
-Edit
+**🚀 How to Use the Workbook**
+1. **Clone this repository**
+```bash
 git clone https://github.com/Aisudan47/Essential-excel-functions.git
-Open the workbook
+```
+2. **Open the workbook**
 
 Navigate to ExcelWorkbook/Essential_Excel_Functions.xlsx
 
-Explore categorized sheets
+3. **Explore categorized sheets**
 
 Logical, Lookup, Text, Date & Time, Math, Aggregate, Dynamic Arrays
 
-Try the examples
+4. **Try the examples**
 
 Change values, trace formula logic, and use it in your own reports
 
-Use as a reference
+5. **Use as a reference**
 
 Bookmark this repo as your go-to Excel formula toolkit
 
@@ -146,19 +144,19 @@ This repository is designed for Excel users of all levels, from beginners lookin
 ## 💡 Business Impact
 Mastering these functions empowers you to:
 
-Automate Reporting
+- **Automate Reporting**
 Save hours by replacing manual work with formula logic.
 
-Ensure Data Accuracy
+- **Ensure Data Accuracy**
 Apply validations and logical checks to prevent costly mistakes.
 
-Increase Analytical Power
+- **Increase Analytical Power**
 Tackle diverse business problems from one clean workbook.
 
-Build Better BI Models
+- **Build Better BI Models**
 Prepare cleaner datasets for Power BI, SQL, or Python analysis.
 
-Ace Job Tests & Interviews
+- **Ace Job Tests & Interviews**
 Excel proficiency is often tested—this repo prepares you thoroughly.
 
 ## 🧑‍💼 About the Developer
