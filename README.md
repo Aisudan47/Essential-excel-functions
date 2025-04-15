@@ -126,17 +126,17 @@ Bookmark this repo as your go-to Excel formula toolkit
 
 **Category:** Excel Tutorials & Resources
 
-**Functions Included:**
+🔧 **Key Functions & Learning Objectives:**
 
-| Category      | Functions                                     | What You'll Learn                                                                 |
-|---------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
-| **Lookup** | `VLOOKUP`, `HLOOKUP`, `XLOOKUP`, `INDEX`, `MATCH`, `CHOOSE` | Merging datasets, finding specific values, performing flexible lookups.         |
-| **Logical** | `IF`, `IFS`, `AND`, `OR`, `NOT`, `IFERROR`       | Automating decisions based on criteria, handling errors gracefully, logical testing. |
-| **Text** | `LEFT`, `RIGHT`, `MID`, `LEN`, `FIND`, `SUBSTITUTE`, `TEXTJOIN` | Data cleaning, standardizing text formats (e.g., names), parsing complex fields. |
-| **Date/Time** | `TODAY`, `NOW`, `DATE`, `EOMONTH`, `NETWORKDAYS`, `YEARFRAC` | Calculating durations, determining fiscal months, managing due dates.           |
-| **Math/Stats**| `SUM`, `AVERAGE`, `ROUND`, `INT`, `MOD`, `RANDBETWEEN` | Performing financial calculations, applying various rounding strategies.           |
-| **Aggregate** | `SUMIF(S)`, `COUNTIF(S)`, `AVERAGEIF(S)`      | Calculating Key Performance Indicators (KPIs), creating grouped summaries, applying data filtering logic within calculations. |
-| **Dynamic Arrays (Excel 365 only)** | `FILTER`, `SORT`, `UNIQUE`, `SEQUENCE`, `TRANSPOSE` | Advanced list generation, creating cleaner and more dynamic dashboards, utilizing spill formulas for efficient calculations. |
+| Category        | Key Functions                                      | 🎯 What You'll Learn                                                                    |
+|-----------------|----------------------------------------------------|-----------------------------------------------------------------------------------------|
+| 🔍 **Lookup** | `VLOOKUP`, `HLOOKUP`, `XLOOKUP`, `INDEX`, `MATCH`, `CHOOSE` | Combine tables, fetch dynamic values, and build flexible data lookups.                |
+| 🧠 **Logical** | `IF`, `IFS`, `AND`, `OR`, `NOT`, `IFERROR`          | Automate decision-making, apply conditions, and handle errors efficiently.              |
+| 🔤 **Text** | `LEFT`, `RIGHT`, `MID`, `LEN`, `FIND`, `SEARCH`, `SUBSTITUTE`, `TEXTJOIN`, `TRIM` | Clean and format messy data, split/merge names, and standardize entries.          |
+| 📅 **Date & Time**| `TODAY`, `NOW`, `DATE`, `YEAR`, `MONTH`, `DAY`, `EOMONTH`, `NETWORKDAYS`, `YEARFRAC` | Work with dates and timelines, calculate durations, and build HR or financial calendars. |
+| ➗ **Math & Stats**| `SUM`, `AVERAGE`, `ROUND`, `INT`, `MOD`, `RANDBETWEEN`, `PRODUCT`, `ABS` | Run key calculations, apply rounding logic, and generate random values.           |
+| 📊 **Aggregate** | `SUMIF`, `SUMIFS`, `COUNTIF`, `COUNTIFS`, `AVERAGEIF`, `AVERAGEIFS` | Build summaries and dynamic metrics across filtered data sets.                     |
+| 💡 **Dynamic Arrays (Excel 365)** | `FILTER`, `SORT`, `UNIQUE`, `SEQUENCE`, `TRANSPOSE`, `SORTBY`, `TEXTSPLIT` | Use modern spill formulas to create clean, automated reports (Excel 365).        |
 
 **What You'll Learn:**
 
