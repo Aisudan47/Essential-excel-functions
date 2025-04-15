@@ -89,6 +89,16 @@ Essential-excel-functions/
 │   └── function_overview.png             # Visual preview of workbook layout
 └── README.md                             # Project documentation and usage guide
 ```
+
+## 🖼️ Workbook Screenshot
+Here’s a quick preview of the workbook structure and design:
+
+
+Color-coded categories make navigation easy
+
+In-cell comments and formula breakdowns guide users
+
+Interactive areas where you can edit inputs and see outputs update live
 ## 📸 Workbook Preview
 
 **🚀 How to Use the Workbook**
