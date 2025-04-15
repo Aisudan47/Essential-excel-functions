@@ -1,4 +1,7 @@
-# 📊 Essential Excel Functions
+---
+## 📊 Essential Excel Functions 
+
+---
 
 A curated Excel workbook featuring the most critical functions and formulas every data analyst, business professional, and Excel power user should know. This project bridges the gap between theory and real-world application by offering categorized examples with practical use cases, interactive scenarios, and clean spreadsheet design.
 
@@ -7,6 +10,8 @@ Whether you're analyzing sales data, building dashboards, or automating tasks—
 ---
 
 ## 🧠 Objective
+
+---
 
 The goal of this project is to:
 
@@ -20,6 +25,7 @@ The goal of this project is to:
 
 ## 📌 Key Business Questions Answered
 
+---
 - How do I clean messy datasets with Excel?
 - How can I automate recurring reports and summaries?
 - What formulas help identify trends, exceptions, and performance metrics?
@@ -29,6 +35,8 @@ The goal of this project is to:
 ---
 
 ## 🎯 Business Use Case
+
+---
 
 This workbook is ideal for:
 
@@ -54,6 +62,8 @@ This workbook is ideal for:
 
 ## 📈 Workbook Features
 
+---
+
 | Feature                       | Description                                                           |
 |-------------------------------|-----------------------------------------------------------------------|
 | **Categorized Functions**     | Logical, Lookup, Text, Date/Time, Math, Aggregate, Dynamic Arrays     |
@@ -69,6 +79,8 @@ This workbook is ideal for:
 
 ## 🛠 Tools & Technologies Used
 
+---
+
 | Tool / Platform      | Description                                                            |
 |----------------------|------------------------------------------------------------------------|
 | **Microsoft Excel**  | Formula writing, workbook formatting, and interactive data sheets      |
@@ -81,6 +93,8 @@ This workbook is ideal for:
 ---
 
 ## 📁 Project Structure
+
+---
 ```bash
 Essential-excel-functions/
 ├── ExcelWorkbook/
@@ -89,8 +103,11 @@ Essential-excel-functions/
 │   └── function_overview.png             # Visual preview of workbook layout
 └── README.md                             # Project documentation and usage guide
 ```
+---
 
 ## 🖼️ Workbook Screenshot
+
+---
 Here’s a quick preview of the workbook structure and design:
 
 
@@ -99,7 +116,12 @@ Color-coded categories make navigation easy
 In-cell comments and formula breakdowns guide users
 
 Interactive areas where you can edit inputs and see outputs update live
+
+---
+
 ## 📸 Workbook Preview
+
+---
 
 **🚀 How to Use the Workbook**
 1. **Clone this repository**
@@ -122,11 +144,15 @@ Change values, trace formula logic, and use it in your own reports
 
 Bookmark this repo as your go-to Excel formula toolkit
 
+---
+
 ## ✅ Key Functions & Learning Outcomes
+
+---
 
 **Category:** Excel Tutorials & Resources
 
-🔧 **Key Functions & Learning Objectives:**
+**Key Functions & Learning Objectives:**
 
 | Category        | Key Functions                                      | 🎯 What You'll Learn                                                                    |
 |-----------------|----------------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -138,7 +164,10 @@ Bookmark this repo as your go-to Excel formula toolkit
 | 📊 **Aggregate** | `SUMIF`, `SUMIFS`, `COUNTIF`, `COUNTIFS`, `AVERAGEIF`, `AVERAGEIFS` | Build summaries and dynamic metrics across filtered data sets.                     |
 | 💡 **Dynamic Arrays (Excel 365)** | `FILTER`, `SORT`, `UNIQUE`, `SEQUENCE`, `TRANSPOSE`, `SORTBY`, `TEXTSPLIT` | Use modern spill formulas to create clean, automated reports (Excel 365).        |
 
-**What You'll Learn:**
+---
+
+## **💡 What You'll Learn:**
+---
 
 This repository provides comprehensive resources to help you master essential Excel functions. Through practical examples, tutorials, and potentially downloadable workbooks, you will learn how to:
 
