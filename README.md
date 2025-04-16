@@ -112,10 +112,59 @@ Essential-excel-functions/
 ##
  ### 1. Excel Essential Functions
 ##
+ ### Questions 1- 15
+<img src="Excel_Essential_Functions.png" alt="Alt text">
+
+### Answers
+#### **Data**
+<img src="Excel_Essential Data.png" alt="Alt text">
+
+- ####  **1&2**
+<img src="Excel_Essential 1&2.png" alt="Alt text">
+
+- #### **3&4**
+<img src="3&4.png" alt="Alt text">
+
+- #### **5**
+<img src="5.png" alt="Alt text">
+
+- #### **6&7**
+<img src="6 & 7.png" alt="Alt text">
+
+- #### **8&9**
+<img src="8 & 9.png" alt="Alt text">
+
+- #### **9**
+<img src="9.png" alt="Alt text">
+
+- #### **10**
+<img src="10.png" alt="Alt text">
+
+- ####  **11**
+<img src="11.png" alt="Alt text">
+
+- #### **12**
+<img src="12.png" alt="Alt text">
+
+- #### **13**
+<img src="13.png" alt="Alt text">
+
+- #### **14&15**
+<img src="14 & 15.png" alt="Alt text">
+
 
 ##
  ### 2. Pivot Charts and Tables
 ##
+
+- ### Pivot Data
+<img src="Pivot Data.png" alt="Alt text">
+
+- ###  Pivot Tables
+<img src="Pivot charts and data.png" alt="Alt text">
+
+-  ### Pivot Tables According to Geography
+<img src="Pivot Data and Charts According to Geography.png" alt="Alt text">
 
 ##
  ### 3. Cleaned Recent Sales Data from Web
