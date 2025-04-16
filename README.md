@@ -109,14 +109,17 @@ Essential-excel-functions/
 # 🖼️ Workbook Screenshot
 
 ---
-Here’s a quick preview of the workbook structure and design:
+##
+ ### 1. Excel Essential Functions
+##
 
+##
+ ### 2. Pivot Charts and Tables
+##
 
-Color-coded categories make navigation easy
-
-In-cell comments and formula breakdowns guide users
-
-Interactive areas where you can edit inputs and see outputs update live
+##
+ ### 3. Cleaned Recent Sales Data from Web
+##
 
 ---
 
