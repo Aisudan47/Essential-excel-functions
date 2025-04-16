@@ -170,6 +170,12 @@ Essential-excel-functions/
  ### 3. Cleaned Recent Sales Data from Web
 ##
 
+-  ### Recent Sales Data of Auburn 
+<img src="recent sales data for Auburn from web.png" alt="Alt text">
+
+- ### Recent Sales Data of Burwood 
+<img src="recent sales data for Burwood from web.png" alt="Alt text">
+
 ---
 
 # 📸 Workbook Preview
