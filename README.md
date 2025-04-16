@@ -1,5 +1,6 @@
 ---
-## 📊 Essential Excel Functions 
+
+ # 📊 **Essential Excel Functions**
 
 ---
 
@@ -7,11 +8,11 @@ A curated Excel workbook featuring the most critical functions and formulas ever
 
 Whether you're analyzing sales data, building dashboards, or automating tasks—this collection equips you with must-know tools to streamline workflows and make smarter decisions in Excel.
 
----
+----
 
-## 🧠 Objective
+# 🧠 Objective
 
----
+----
 
 The goal of this project is to:
 
@@ -23,7 +24,7 @@ The goal of this project is to:
 
 ---
 
-## 📌 Key Business Questions Answered
+# 📌 Key Business Questions Answered
 
 ---
 - How do I clean messy datasets with Excel?
@@ -34,11 +35,11 @@ The goal of this project is to:
 
 ---
 
-## 🎯 Business Use Case
+# 🎯 Business Use Case
 
 ---
 
-This workbook is ideal for:
+#### This workbook is ideal for:
 
 - **📈 Data Analysts & BI Learners**  
   Gain a working command of Excel formulas that power dashboards, KPIs, and reports.
@@ -60,7 +61,7 @@ This workbook is ideal for:
 
 ---
 
-## 📈 Workbook Features
+# 📈 Workbook Features
 
 ---
 
@@ -77,7 +78,7 @@ This workbook is ideal for:
 
 ---
 
-## 🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 ---
 
@@ -92,7 +93,7 @@ This workbook is ideal for:
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 ---
 ```bash
@@ -105,7 +106,7 @@ Essential-excel-functions/
 ```
 ---
 
-## 🖼️ Workbook Screenshot
+# 🖼️ Workbook Screenshot
 
 ---
 Here’s a quick preview of the workbook structure and design:
@@ -119,11 +120,11 @@ Interactive areas where you can edit inputs and see outputs update live
 
 ---
 
-## 📸 Workbook Preview
+# 📸 Workbook Preview
 
 ---
 
-**🚀 How to Use the Workbook**
+### 🚀 How to Use the Workbook
 1. **Clone this repository**
 ```bash
 git clone https://github.com/Aisudan47/Essential-excel-functions.git
@@ -146,11 +147,10 @@ Bookmark this repo as your go-to Excel formula toolkit
 
 ---
 
-## ✅ Key Functions & Learning Outcomes
+# ✅ Key Functions & Learning Outcomes
 
 ---
 
-**Category:** Excel Tutorials & Resources
 
 **Key Functions & Learning Objectives:**
 
@@ -166,7 +166,7 @@ Bookmark this repo as your go-to Excel formula toolkit
 
 ---
 
-## **💡 What You'll Learn:**
+# **💡 What You'll Learn:**
 ---
 
 This repository provides comprehensive resources to help you master essential Excel functions. Through practical examples, tutorials, and potentially downloadable workbooks, you will learn how to:
@@ -180,8 +180,11 @@ This repository provides comprehensive resources to help you master essential Ex
 * **(For Excel 365 users)** Leverage the power of **dynamic arrays** to create more flexible and efficient formulas.
 
 This repository is designed for Excel users of all levels, from beginners looking to build a strong foundation to experienced users seeking to enhance their skills with more advanced functions.
-## 💡 Business Impact
-Mastering these functions empowers you to:
+
+---
+# 💡 Business Impact
+---
+#### Mastering these functions empowers you to:
 
 - **Automate Reporting**
 Save hours by replacing manual work with formula logic.
@@ -198,7 +201,9 @@ Prepare cleaner datasets for Power BI, SQL, or Python analysis.
 - **Ace Job Tests & Interviews**
 Excel proficiency is often tested—this repo prepares you thoroughly.
 
-## 🧑‍💼 About the Developer
+---
+# 🧑‍💼 About the Developer
+---
 **Sudan Sapkota**
 
 Aspiring Data Analyst passionate about transforming raw data into actionable insights using tools like Power BI, Excel, SQL, and Python. Focused on delivering business value through clean design, data storytelling, and analytical thinking.
@@ -209,10 +214,10 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 
 **💼 GitHub: github.com/Aisudan47**
 
-**📜 License**
+**📜 License:**
 This project is released under the MIT License.
 Free to use, modify, and distribute with attribution.
 
-**💬 Feedback & Contributions** <br>
+**💬 Feedback & Contributions:** <br>
 Have suggestions or want to contribute?
 Feel free to open an issue or connect via email. Collaboration and feedback are always welcome.
